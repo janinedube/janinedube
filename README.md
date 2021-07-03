@@ -1,6 +1,5 @@
 - Hi, I’m @janinedube
 - I’m interested in Data Science
-- I’m currently learning anything new & interesting
 - I’m looking to collaborate on all types of Data Science projects
 - Reach me @ linkedin.com/in/janine-dube-a51565a7
 
